@@ -139,3 +139,12 @@ int main()
 	
 	return 0;
 }
+
+#Output
+273531
+[x] element not found 31
+ Preorder traversal
+27->14->10->19->35->31->42->
+ Postorder traversal
+10->19->14->31->42->35->27->
+ Inorder traversal
