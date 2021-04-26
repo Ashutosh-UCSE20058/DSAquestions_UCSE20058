@@ -61,3 +61,10 @@ int main()
 	}
 	return 0;
 }
+
+//Output
+Edge:Weight
+0-1:9
+1-3:19
+3-4:31
+0-0:0
