@@ -112,3 +112,24 @@ int main()
 	DFS(graph1,2);
 	return 0;
 }
+
+
+//Output
+ Adjacency list of vertices
+2->  1->
+
+ Adjacency list of vertices
+2->  0->
+
+ Adjacency list of vertices
+3->  1->  0->
+
+ Adjacency list of vertices
+2->
+Visited 2
+
+Visited 3
+
+Visited 1
+
+Visited 0
