@@ -123,3 +123,12 @@ int main()
 	dijkstra(graph,n,u);
 	return 0;
 }
+
+//Output
+
+Distance from source to 1: 3
+Distance from source to 2: 1
+Distance from source to 3: 2
+Distance from source to 4: 4
+Distance from source to 5: 4
+Distance from source to 6: 3
