@@ -58,3 +58,10 @@ int main() {
 
   return 0;
 }
+
+//Output
+Displaying the binary tree created
+1 ->2 ->4 ->3 ->
+--------------------------------
+Process exited after 0.02495 seconds with return value 0
+Press any key to continue . . .
