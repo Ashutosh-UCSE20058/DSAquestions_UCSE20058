@@ -74,5 +74,7 @@ int main()
 	printingarray(array,n);
 }
 
-
+//Output
+Sorted array is
+1  6  10  11  12  13  50  78
 
