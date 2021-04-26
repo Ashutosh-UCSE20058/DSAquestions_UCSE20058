@@ -87,3 +87,8 @@ int main()
 	printf("Sorted array: \n");
 	printarray(arr,size);
 }
+
+
+//Output
+Sorted array:
+1  5  6  9  10  12
