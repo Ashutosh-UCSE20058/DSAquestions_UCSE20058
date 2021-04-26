@@ -71,3 +71,10 @@ int main()
 	printf("Sorted array in ascending order:\n");
 	printarray(data,n);		//printing the sorted array
 }
+
+//Output
+
+Unsorted array
+8  7  2  1  0  9  6  12  67  34  11
+Sorted array in ascending order:
+0  1  2  6  7  8  9  11  12  34  67
