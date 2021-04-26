@@ -123,3 +123,18 @@ inorder(root);
 printf("\n");
 return 0;
 }
+
+//Output
+Enter the number of nodes : 5
+
+Input the nodes of the binary search tree : 1
+2
+3
+4
+5
+
+Inorder traversal of the BST : 1 2 3 4 5
+
+Enter the node to be deleted : 3
+
+Inorder traversal after deletion : 1 2 4 5
