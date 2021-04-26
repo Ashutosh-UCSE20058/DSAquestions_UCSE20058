@@ -183,3 +183,10 @@ int main()
 	return 0;
 	
 }
+
+//Output
+Resetting queue Visited 0
+ Visited 2
+ Visited 1
+ Visited 4
+ Resetting queue Visited 3
