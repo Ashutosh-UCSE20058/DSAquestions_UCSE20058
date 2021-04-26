@@ -90,3 +90,12 @@ int main() {
   
   return 0;
 }
+
+
+#Output
+Inorder traversal
+4->2->6->1->3->5->
+Preorder traversal
+1->2->4->6->3->5->
+Postorder traversal
+4->6->2->5->3->1->
